@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "harichen",
-    "repositoryName": "harichen.io",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"harichen","repositoryName":"harichen.io","branch":"gh-pages"},"site":{"title":"harichen4it","description":"harichen's it life","disqus":"harichen","url":"https://harichen.github.io/harichen.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//harichen.github.io/harichen.io/themes/Casper"}}

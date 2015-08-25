@@ -19,4 +19,4 @@ $ gem sources -l
 
 ```
 
-2.在运行dryrun过程中发现targetSDKVersion 23编译不过，以为是没有下载相应的sdk 版本的问题。在"一起来干货分享反馈群”中李明亮说：”23的AppCompatV7B包有问题，不要用AppCompatV7B包，另外如果你改变v7为22还是编译报错，你就要修改一下extra/什么的下面的v7包的m2repo什么的配置文件，把23的version删了。
+2.在运行dryrun过程中发现targetSDKVersion 23编译不过，以为是没有下载相应的sdk 版本的问题。在”一起来干货分享反馈群“中李明亮说：“23的AppCompatV7B包有问题，不要用AppCompatV7B包，另外如果你改变v7为22还是编译报错，你就要修改一下extra/什么的下面的v7包的m2repo什么的配置文件，把23的version删了。”

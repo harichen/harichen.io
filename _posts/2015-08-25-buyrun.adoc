@@ -1,0 +1,22 @@
+# 尝试buyrun
+
+看到自动化运行github上的项目：https://github.com/cesarferreira/dryrun
+
+一激动就开始尝试。中间遇到一些问题：
+
+1.gem install dryrun  安装dryrun过程中遇到Errno::ECONNRESET: Connection reset by peer - SSL_connect (https://rubygems.org)错误，google到解决方案：
+
+由于国内网络原因（你懂的），导致 [rubygems.org](http://rubygems.org/) 存放在 Amazon S3 上面的资源文件间歇性连接失败。所以你会与遇到 `gem install rack` 或 `bundle 
+install` 的时候半天没有响应。然后使用了淘宝的RubyGems 镜像解决了这个问题。具体教程：
+
+##### 如何使用？
+
+``` 
+$ gem sources --remove https://rubygems.org/
+$ gem sources -a https://ruby.taobao.org/
+$ gem sources -l
+*** CURRENT SOURCES ***
+
+```
+
+2.在运行dryrun过程中发现targetSDKVersion 23编译不过，以为是没有下载相应的sdk 版本的问题。在"一起来干货分享反馈群”中李明亮说：”23的AppCompatV7B包有问题，不要用AppCompatV7B包，另外如果你改变v7为22还是编译报错，你就要修改一下extra/什么的下面的v7包的m2repo什么的配置文件，把23的version删了。

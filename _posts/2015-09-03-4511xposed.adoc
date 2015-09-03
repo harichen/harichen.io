@@ -1,0 +1,21 @@
+# 小米4秋大5.1.1谷歌包刷xposed的惨痛经历
+
+
+
+原来刷了秋大5.1.1谷歌包，使用起来还是很舒服的。出于对Xposed的好奇，正好官方Xposed出来了。我就想试试。下载了官方的版本，用recovery刷入。开机提示Xposed未激活。后面找了2015.05.14非官方版的刷入，还是提示未激活。
+
+第二天在论坛搜索看到 http://www.miui.com/thread-2614954-1-1.html帖子 和 @cocoren的 http://www.miui.com/thread-2569115-1-1.html 帖子才知道秋大谷歌5.1.1包与Xposed不兼容。按照 @cocoren 的帖子《秋大5.1.1_r2（5.5.20）成功刷入xposed（顶楼加入正确姿势）》帖子的步骤：
+
+1.先刷入符合自己手机版本的5.20号之后的任意开发版rom。
+
+2.按照@HuangKingSam http://www.miui.com/thread-2516725-1-1.html 的帖子步骤刷秋大版recovery
+
+3.重启，秋大recovery直刷秋大5.1.12_r2
+
+4.刷入Xposed包
+
+5.安装Xposed_install.apk
+
+6.如果需要可以刷入谷歌服务包
+
+最后才正确的刷入xposed，折腾了一整天的时间。

@@ -1,0 +1,3 @@
+# 解决Android : Top level element is not completed in AndroidManifest.xml问题
+
+Select element in xml that displays error. press alt + enter on the drawable item which calls error (for example:"@drawable/example") and select "Uninject language/reference"

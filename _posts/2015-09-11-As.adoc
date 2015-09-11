@@ -1,0 +1,9 @@
+# As调试快捷键
+
+Shift + F7 进入方法
+
+Shift + F8 退出方法
+
+F8 下一行
+
+command + option + r 退出断点

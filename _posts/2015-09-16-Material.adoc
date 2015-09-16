@@ -1,0 +1,14 @@
+# Material 主题样式
+
+toolbar文字颜色：
+
+`android:theme="@style/AppTheme.AppBarOverlay"`
+
+menu弹出样式，注意这里的声明空间是app：
+
+`app:popupTheme="@style/AppTheme.PopupOverlay"`
+
+tabLayout 文字颜色：
+
+`app:tabTextColor="@color/colorPrimary" app:tabSelectedTextColor="@color/white"android:theme="@style/AppTheme.AppBarOverlay"`
+

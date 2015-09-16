@@ -4,6 +4,4 @@ android:theme="@style/AppTheme.AppBarOverlay"
 
 toolbar文字颜色
 
-app:popupTheme="@style/AppTheme.PopupOverlay"
-
-menu弹出样式，注意这里的声明空间是app
+app:popupTheme="@sty

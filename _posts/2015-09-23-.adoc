@@ -1,0 +1,7 @@
+# 单例模式的成员变量生命周期
+
+单例对象的成员变量一旦被赋值，就会一直存在。所以在一些特殊情况下要重置这些变量值。
+
+遇到的情况是这样的：登录情况下，GendanManager 的成员变量 private String encryptionId 被赋值了。退出登录，再去下单，订单跟到了之前的用户上。
+
+解决方案是：退出登录时，把 GendanManager 的成员变量 encryptionId 重置。

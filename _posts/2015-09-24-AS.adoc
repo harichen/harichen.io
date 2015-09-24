@@ -1,21 +1,59 @@
-# AS 常用快捷键
+# AS 编辑常用快捷键
 
-Comd + n 生成代码(如get,set方法,构造函数等)
+Command + 鼠标左键 同时按住 查看元素简短说明
 
-Comd + e 打开文件历史记录
+F1 查看选中的元素文档
 
-Comd + Shift + enter 在方法()后面自动加{}
+Shift + F1  查看该元素的网页文档
+
+Command + e 打开文件历史记录
+
+
+Control + Space 自动完成代码
+
+Control + enter 生成代码(如get,set方法,构造函数等)
+
+Command + Shift + enter 在方法()后面自动加{}
+
+Option + enter 快速修改成员属性
+
+
+Command + Minus/Plus 折叠/展开类
+
+Option + Up/Down 增大缩小选择范围 
+
+Command + Option + t 生成代码块
 
 变量.notnull 自动生成对象不为null的判断
 
 
-Ctrl + t 重构（refactor this）
+Option + Delete 删除一个单词
 
-Ctrl + g 编辑多行
+Command + Shift + U   大小写字母转换
+
+Command + D  复制行;
+
+Command + X  删除行
+
+Command + Shift + Left/Right 选中行
+
+Command + Shif + Up/Down 移动行
 
 
-Comd + Shift + f12 显示/隐藏所有窗口
+Control + t  重构（refactor this）
 
-Comd + Shift + 左右方向键 缩小/放大窗口
+Control + O  覆盖重写方法
 
-Comd + Shift + t show image thumbnails
+Control + g  编辑多行
+
+
+Control + Option + O  自动优化导入包
+
+Command + Option + L   格式化代码
+
+
+Command + Shift + f12 显示/隐藏所有窗口
+
+Command + Shift + Left/Right 缩小/放大窗口
+
+Command + Shift + t show image thumbnails

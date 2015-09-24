@@ -47,13 +47,23 @@ Control + O  覆盖重写方法
 Control + g  编辑多行
 
 
+Double Shift 文件查找
+
+Command Shift a 命令查找
+
+Command Shift t 图片查找
+
+Command g 选中元素
+
+Command r 替换元素
+
+Command option F7 引用查找
+
+
 Control + Option + O  自动优化导入包
 
 Command + Option + L   格式化代码
 
-
 Command + Shift + f12 显示/隐藏所有窗口
 
 Command + Shift + Left/Right 缩小/放大窗口
-
-Command + Shift + t show image thumbnails

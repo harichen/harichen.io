@@ -1,25 +1,21 @@
 # AS 常用快捷键
 
-Comd+n 生成代码(如get,set方法,构造函数等)
+Comd + n 生成代码(如get,set方法,构造函数等)
 
-Comd+e 打开文件历史记录
+Comd + e 打开文件历史记录
 
-Comd+Shift+ enter 在方法()后面自动加{}
+Comd + Shift + enter 在方法()后面自动加{}
 
 变量.notnull 自动生成对象不为null的判断
 
-Comd+Shift+ f12 显示/隐藏所有窗口
 
-Comd+Shift+ 左右方向键 缩小/放大窗口
+Ctrl + t 重构（refactor this）
 
-Comd+Opt+ w 视图切换
+Ctrl + g 编辑多行
 
-Comd+Opt+ v 移动class
 
-Comd+y 快速查看类定义
+Comd + Shift + f12 显示/隐藏所有窗口
 
-Ctrl+g 编辑多行
+Comd + Shift + 左右方向键 缩小/放大窗口
 
-Ctrl+t refactor this
-
-Comd+Shift+ t show image thumbnails
+Comd + Shift + t show image thumbnails

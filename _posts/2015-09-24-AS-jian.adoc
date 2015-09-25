@@ -1,4 +1,5 @@
-# AS 常用查找kuai'j'j
+# AS 常用查找快捷jian
+
 double shift 文件查找
 
 command shift a 命令查找

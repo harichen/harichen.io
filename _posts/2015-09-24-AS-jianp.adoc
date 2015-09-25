@@ -1,1 +1,13 @@
-# AS 查找常用快捷jian
+# AS 常用查找快捷jian'p
+
+double shift 文件查找
+
+command shift a 命令查找
+
+command shift t 图片查找
+
+command g 选中元素
+
+command r 替换元素
+
+command option F7 引用查找

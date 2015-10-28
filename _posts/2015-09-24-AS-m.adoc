@@ -1,5 +1,4 @@
-# AS 查找ming'l
-
+# AS 查找m
 double shift 文件查找
 
 command shift a 命令查找

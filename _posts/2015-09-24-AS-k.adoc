@@ -1,4 +1,4 @@
-# AS 查找kuai'jie'jian
+# AS 查找k
 double shift 文件查找
 
 command shift a 命令查找

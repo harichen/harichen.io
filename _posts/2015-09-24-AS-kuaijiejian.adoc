@@ -1,4 +1,4 @@
-# AS 常用查找快捷jian
+# AS 常用查找kuai'jie'jian
 
 double shift 文件查找
 

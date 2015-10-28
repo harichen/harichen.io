@@ -1,4 +1,4 @@
-# AS 常用查找快捷double shift 文件查找
+# AS 常用查找快捷do
 
 command shift a 命令查找
 

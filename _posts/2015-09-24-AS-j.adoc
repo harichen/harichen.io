@@ -1,4 +1,4 @@
-# AS 常用查找快捷jian'p
+# AS 常用查找快捷j
 
 double shift 文件查找
 

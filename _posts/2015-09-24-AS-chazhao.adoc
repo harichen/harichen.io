@@ -1,4 +1,4 @@
-# AS 常用查找k
+# AS cha'zhao
 
 double shift 文件查找
 

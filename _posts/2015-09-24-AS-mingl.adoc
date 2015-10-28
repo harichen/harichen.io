@@ -1,4 +1,4 @@
-# AS c
+# AS 查找ming'l
 
 double shift 文件查找
 

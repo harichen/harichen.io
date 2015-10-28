@@ -1,4 +1,4 @@
-# AS 查zhao
+# AS 查z
 double shift 文件查找
 
 command shift a 命令查找

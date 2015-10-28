@@ -1,4 +1,5 @@
-# AS 查z
+# AS search shortcut key
+
 double shift 文件查找
 
 command shift a 命令查找
